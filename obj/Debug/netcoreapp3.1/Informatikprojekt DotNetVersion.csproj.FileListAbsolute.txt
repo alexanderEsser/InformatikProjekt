@@ -1,0 +1,142 @@
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/bin/Debug/netcoreapp3.1/Informatikprojekt DotNetVersion
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/bin/Debug/netcoreapp3.1/Informatikprojekt DotNetVersion.deps.json
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/bin/Debug/netcoreapp3.1/Informatikprojekt DotNetVersion.runtimeconfig.json
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/bin/Debug/netcoreapp3.1/Informatikprojekt DotNetVersion.runtimeconfig.dev.json
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/bin/Debug/netcoreapp3.1/Informatikprojekt DotNetVersion.dll
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/bin/Debug/netcoreapp3.1/Informatikprojekt DotNetVersion.pdb
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/obj/Debug/netcoreapp3.1/Informatikprojekt DotNetVersion.csprojAssemblyReference.cache
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/obj/Debug/netcoreapp3.1/Informatikprojekt DotNetVersion.AssemblyInfoInputs.cache
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/obj/Debug/netcoreapp3.1/Informatikprojekt DotNetVersion.AssemblyInfo.cs
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/obj/Debug/netcoreapp3.1/Informatikprojekt DotNetVersion.csproj.CopyComplete
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/obj/Debug/netcoreapp3.1/Informatikprojekt DotNetVersion.dll
+/home/denis/RiderProjects/Informatikprojekt DotNetVersion/Informatikprojekt DotNetVersion/obj/Debug/netcoreapp3.1/Informatikprojekt DotNetVersion.pdb
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.exe
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.deps.json
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.runtimeconfig.json
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.runtimeconfig.dev.json
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.dll
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.pdb
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.csprojAssemblyReference.cache
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.csproj.CoreCompileInputs.cache
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.AssemblyInfoInputs.cache
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.AssemblyInfo.cs
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.csproj.CopyComplete
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.dll
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.pdb
+C:\Users\Denis\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.genruntimeconfig.cache
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.exe
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.deps.json
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.runtimeconfig.json
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.runtimeconfig.dev.json
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.pdb
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.csprojAssemblyReference.cache
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.csproj.CopyComplete
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.pdb
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.genruntimeconfig.cache
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Alex\RiderProjects\InformatikprojektDotNetVersion\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.exe
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.deps.json
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.runtimeconfig.json
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.pdb
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.csproj.CopyComplete
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.dll
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.pdb
+C:\Users\Alex\Desktop\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.genruntimeconfig.cache
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.exe
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.deps.json
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.runtimeconfig.json
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.runtimeconfig.dev.json
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.pdb
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.csprojAssemblyReference.cache
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.csproj.CopyComplete
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.dll
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.pdb
+C:\Users\Alex\RiderProjects\Informatikprojekt DotNetVersion\obj\Debug\netcoreapp3.1\Informatikprojekt DotNetVersion.genruntimeconfig.cache
